@@ -58,7 +58,7 @@ nav ul li a:hover {
 }
 
 .modal-content{
-    /* background: rgba(0, 0, 0, 0.3)  url("C:\Users\HP\Downloads\Allura - Online Searching.png"); */
+    background: rgba(0, 0, 0, 0.3)  url("C:\Users\HP\Desktop\tip\tipp-me-frontend\src\allura.png");
     background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
     background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
     background-color: whitesmoke;
@@ -67,7 +67,7 @@ nav ul li a:hover {
     color: black;
 }
 .modal-content-up{
-    background: rgba(0, 0, 0, 0.25)  url("C:\Users\HP\Downloads\Allura - Online Searching (1).png");
+    background: rgba(0, 0, 0, 0.25)  url("C:\Users\HP\Desktop\tip\tipp-me-frontend\src\ballura.png");
     background-blend-mode: darken;
     background-repeat: repeat;
     
@@ -177,7 +177,7 @@ nav ul li a:hover {
 .ready{
     text-align: center;
     
-   background-image: url("C:\Users\HP\Desktop\tip\tipp-me-frontend\src\assets\secured.png");
+   background-image: url("C:\Users\HP\Desktop\tip\tipp-me-frontend\src\secured.png");
     height: 60vh;
     align-items: center;
     
